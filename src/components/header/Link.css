@@ -1,0 +1,16 @@
+.link {
+  color: #384241;
+  margin-right: 20px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+
+.link:last-child {
+  color: red;
+}
+
+.link:hover {
+  font-weight: 700;
+  padding-right: 7.5px;
+  text-decoration: underline;
+}
