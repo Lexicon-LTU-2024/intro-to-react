@@ -1,0 +1,10 @@
+.instructions {
+  padding: 60px;
+  width: 60%;
+}
+
+.instructions .instructions-header {
+  font-size: 32px;
+  line-height: 32px;
+  margin-bottom: 20px;
+}

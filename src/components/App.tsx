@@ -1,6 +1,7 @@
 import { ReactElement } from "react";
 import { Header } from "./header";
 import { Introduction } from "./introduction";
+import { HowToDo } from "./how-to-do";
 
 import "./App.css";
 
@@ -10,7 +11,7 @@ function App(): ReactElement {
       <Header />
       <main>
         <Introduction />
-        {/* <HowToDo/>  */}
+        <HowToDo />
       </main>
     </>
   );
