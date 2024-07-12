@@ -1,0 +1,10 @@
+.description {
+  padding-inline: 60px;
+  width: 40%;
+}
+
+.description .recipe-name {
+  font-size: 54px;
+  line-height: 54px;
+  margin-bottom: 20px;
+}

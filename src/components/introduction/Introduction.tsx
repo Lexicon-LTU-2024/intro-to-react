@@ -3,6 +3,8 @@ import { Description, Image } from ".";
 import { IImage } from "../../interfaces";
 import { images } from "../../assets";
 
+import "./Introduction.css"
+
 export function Introduction(): ReactElement {
   const image: IImage = {
     src: images.frozenCheesecake,

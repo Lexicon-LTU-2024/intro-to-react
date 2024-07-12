@@ -1,6 +1,8 @@
 import { ReactElement } from "react";
 import { CookingTime } from ".";
 
+import "./Description.css";
+
 export function Description(): ReactElement {
   return (
     <article className="description">

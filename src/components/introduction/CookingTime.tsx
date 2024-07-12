@@ -1,5 +1,7 @@
 import { ReactElement } from "react";
 
+import "./CookingTime.css";
+
 export function CookingTime(): ReactElement {
   return (
     <div className="cooking-time">

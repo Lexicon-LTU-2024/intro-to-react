@@ -1,0 +1,6 @@
+.introduction {
+  display: flex;
+  justify-content: space-between;
+  height: 80vh;
+  padding-top: 60px;
+}
